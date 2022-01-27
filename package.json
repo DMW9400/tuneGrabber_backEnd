@@ -1,0 +1,20 @@
+{
+  "name": "tunegrabber_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMW9400/tuneGrabber_backEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMW9400/tuneGrabber_backEnd/issues"
+  },
+  "homepage": "https://github.com/DMW9400/tuneGrabber_backEnd#readme"
+}
